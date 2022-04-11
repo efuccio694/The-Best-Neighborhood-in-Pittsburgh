@@ -1,0 +1,11 @@
+_id	id	type
+1	id	text
+2	name	text
+3	maintenance_responsibility	text
+4	installed	date
+5	material	text
+6	length	int
+7	image	text
+8	neighborhood	text
+9	council_district	text
+10	ward	text
