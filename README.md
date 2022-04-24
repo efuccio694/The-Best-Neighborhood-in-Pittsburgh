@@ -15,3 +15,7 @@
 ### Overview: 
     The goal of our project is to determine the best neighborhood in the city of Pittsburgh by 
     analyzing various datasets from the WPRDC. 
+
+### Instructions:
+    Please view the FinalProject file in it's folder for the final version of our project. 
+    The rest of the folders contain each individual notebook for the metrics.
